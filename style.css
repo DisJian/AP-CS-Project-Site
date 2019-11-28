@@ -3,7 +3,7 @@ body {
 }
 
 a {
-  color: #64ffa7;
+  color: #64ffa2;
 }
 
 a:hover {
@@ -17,7 +17,7 @@ a:hover {
 header {
   margin-bottom: 20px;
   padding: 20px;
-  border-bottom: 1px solid #ddff64;
+  border-bottom: 1px solid #8364ff;
 }
 
 header h1 {
@@ -36,7 +36,7 @@ header nav ul li {
 
 .project {
   margin-bottom: 20px;
-  border-bottom: 1px solid #ddff64;
+  border-bottom: 1px solid #8364ff;
 }
 
 .project img, #aboutme img  {
